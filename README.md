@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://thiagocampello.github.io/Soulcode/">
-	<img alt="Logo" src="paginas/SoulCode.png" />
+	<img alt="Logo" src="Paginas/SoulCode.png" />
 	</a>
     <br>
 </h1>
@@ -41,7 +41,7 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [VS Code][vc]
 
 ## :eyes: Confira
 
